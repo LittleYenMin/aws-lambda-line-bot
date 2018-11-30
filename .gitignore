@@ -115,4 +115,4 @@ dmypy.json
 .pyre/
 
 # lambda deploy file
-.zip
+*.zip
